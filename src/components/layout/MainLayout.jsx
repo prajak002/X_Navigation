@@ -19,6 +19,7 @@ const MainLayout = () => {
                         <div className="overlay">
                             <Outlet />
                         </div>
+                        
                     </div>
                 </div>
             </div>
